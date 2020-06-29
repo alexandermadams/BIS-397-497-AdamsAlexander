@@ -17,3 +17,4 @@ while count <= 10:
         shigh = number
     count = count+1
 
+# TAA: please have your program print the result at the end of processing
